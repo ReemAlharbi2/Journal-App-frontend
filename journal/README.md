@@ -5,7 +5,7 @@ Journal App, a personal journaling application where users can register, log in,
 
 
 ## Backend Repository
-[Backend Repository Link] (https://git.generalassemb.ly/reemalharbi/frontend.git)
+[Backend Repository Link] (https://github.com/ReemAlharbi2/Journal-App-backend.git)
 
 ## Tech Stack
 - **React**
@@ -25,9 +25,7 @@ These are potential features that may be added in the future to enhance user exp
 - Favorite/Pin Notes: Let users mark important notes as favorites or pin them to the top.
 - Log out
 
-## Challenges
-- It was challenging to securely implement login and signup
-- I faced issues with making sure the frontend correctly fetches and display data from the Django backend.
+
 
 ## Installation Instructions
  - clone the Repostry
