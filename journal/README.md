@@ -25,11 +25,19 @@ These are potential features that may be added in the future to enhance user exp
 - Favorite/Pin Notes: Let users mark important notes as favorites or pin them to the top.
 - Log out
 
+## Screenshots of the Flow of the App
+![Login](img/Login.jpg)
+![Register](img/Register.jpg)
+![View Notes](img/notes.jpg)
+![add Note](img/addNote.jpg)
 
 
 ## Installation Instructions
- - clone the Repostry
- - cd journal
- - npm i
- -  run dev 
+```bash
+git clone https://github.com/ReemAlharbi2/Journal-App-frontend.git
+cd Journal-App-frontend
+npm install
+npm run dev
+
+```
 
